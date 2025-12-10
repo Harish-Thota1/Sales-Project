@@ -29,4 +29,5 @@ Together, they offer a complete view of customer behaviour, service performance,
 
 5. Investigate geographic opportunities by analysing state-level differences in conversion and demand.
 
-![Uploading Screenshot 2025-12-10 at 2.46.43 pm.png…]()
+<img width="1170" height="643" alt="Screenshot 2025-12-10 at 2 46 43 pm" src="https://github.com/user-attachments/assets/4043b759-8ed1-43a1-88e2-36af408d3a60" />
+
