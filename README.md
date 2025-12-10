@@ -25,9 +25,12 @@ Together, they offer a complete view of customer behaviour, service performance,
 
 3. Prepare for seasonal spikes with planned campaigns and capacity allocation.
 
-4. Stabilise monthly demand using structured promotions, referral bonuses, or subscription-style offerings.
+![Uploading Screenshot 2025-12-10 at 2.46.29 pm.png…]()
 
-5. Investigate geographic opportunities by analysing state-level differences in conversion and demand.
+
+5. Stabilise monthly demand using structured promotions, referral bonuses, or subscription-style offerings.
+
+6. Investigate geographic opportunities by analysing state-level differences in conversion and demand.
 
 <img width="1176" height="655" alt="Screenshot 2025-12-10 at 2 46 29 pm" src="https://github.com/user-attachments/assets/c928e469-1bac-44dd-99ee-661aa2fbc957" />
 
