@@ -29,6 +29,7 @@ Together, they offer a complete view of customer behaviour, service performance,
 
 
 
+
 5. Stabilise monthly demand using structured promotions, referral bonuses, or subscription-style offerings.
 
 6. Investigate geographic opportunities by analysing state-level differences in conversion and demand.
