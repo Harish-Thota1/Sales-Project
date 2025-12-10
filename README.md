@@ -25,7 +25,8 @@ Together, they offer a complete view of customer behaviour, service performance,
 
 3. Prepare for seasonal spikes with planned campaigns and capacity allocation.
 
-![Uploading Screenshot 2025-12-10 at 2.46.29 pm.png…]()
+![Uploading Screenshot 2025-12-10 at 2.46.43 pm.png…]()
+
 
 
 5. Stabilise monthly demand using structured promotions, referral bonuses, or subscription-style offerings.
